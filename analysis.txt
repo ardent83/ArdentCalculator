@@ -1,0 +1,265 @@
+264
+add 0 463
+addLast 340
+add 1 228
+addFirst 777
+addLast 644
+addLast 254
+addFirst 308
+add 0 53
+add 5 287
+addFirst 44
+addLast 679
+addLast 295
+addFirst 125
+add 6 534
+addLast 404
+add 13 237
+add 9 974
+add 0 61
+add 7 438
+addFirst 344
+addLast 730
+add 11 564
+addLast 191
+addLast 675
+add 2 86
+add 3 536
+addFirst 681
+addLast 475
+addFirst 102
+addLast 900
+add 13 895
+addFirst 991
+add 27 395
+addFirst 471
+addFirst 139
+add 21 32
+addFirst 325
+addLast 993
+add 26 974
+add 29 889
+addLast 896
+addLast 81
+add 37 479
+addLast 385
+addFirst 267
+addFirst 948
+addLast 87
+addFirst 156
+addFirst 8
+addFirst 944
+add 0 899
+addFirst 379
+addFirst 722
+add 17 733
+addFirst 999
+addFirst 830
+add 3 68
+addFirst 244
+addLast 743
+add 18 598
+addLast 348
+add 36 596
+addFirst 288
+addFirst 713
+addFirst 945
+add 16 947
+addLast 108
+addLast 903
+add 24 876
+addLast 752
+addLast 189
+addFirst 393
+addFirst 543
+add 22 852
+addFirst 297
+addFirst 64
+addLast 55
+add 0 541
+add 73 888
+addLast 177
+add 55 151
+addLast 194
+addLast 666
+addLast 123
+addLast 964
+add 66 230
+addFirst 228
+addLast 432
+addFirst 444
+addLast 156
+addLast 915
+addLast 242
+addFirst 957
+addLast 85
+addLast 343
+addFirst 487
+addFirst 620
+addFirst 155
+add 39 230
+addFirst 764
+add 27 387
+size
+isEmpty
+sort
+add 8 866
+addLast 804
+removeFirst
+add 12 935
+first
+remove 27
+first
+addFirst 93
+last
+addLast 186
+size
+isEmpty
+sort
+get 97
+remove 87
+last
+get 96
+last
+add 79 156
+last
+get 79
+add 74 37
+addFirst 201
+size
+isEmpty
+sort
+add 86 940
+removeFirst
+add 92 215
+removeLast
+removeFirst
+first
+remove 47
+addFirst 435
+addFirst 13
+addFirst 556
+size
+isEmpty
+sort
+removeLast
+last
+last
+get 104
+remove 88
+last
+last
+last
+addFirst 149
+last
+size
+isEmpty
+sort
+get 0
+first
+get 79
+last
+last
+remove 42
+get 91
+remove 43
+get 102
+add 1 710
+size
+isEmpty
+sort
+first
+addLast 338
+removeFirst
+first
+add 43 195
+get 65
+addLast 773
+last
+get 7
+remove 39
+size
+isEmpty
+sort
+removeLast
+remove 53
+remove 70
+get 11
+removeLast
+first
+first
+addLast 376
+get 87
+removeFirst
+size
+isEmpty
+sort
+last
+removeFirst
+last
+addLast 171
+last
+removeFirst
+removeLast
+get 0
+removeFirst
+addFirst 120
+size
+isEmpty
+sort
+get 40
+removeFirst
+addFirst 586
+last
+removeFirst
+first
+addLast 150
+addFirst 406
+get 35
+first
+size
+isEmpty
+sort
+first
+remove 58
+last
+removeLast
+removeFirst
+removeFirst
+add 23 356
+get 69
+remove 96
+add 21 153
+size
+isEmpty
+sort
+removeLast
+add 19 75
+removeFirst
+removeFirst
+get 94
+addFirst 988
+add 59 584
+removeFirst
+addFirst 561
+get 46
+size
+isEmpty
+sort
+removeFirst
+addLast 687
+remove 84
+removeLast
+get 43
+remove 0
+last
+first
+last
+removeFirst
+size
+isEmpty
+sort
+last
+get 23
+removeFirst
+first
