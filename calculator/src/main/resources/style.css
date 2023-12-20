@@ -1,0 +1,68 @@
+.button {
+    -fx-font-family: 'Bell MT';
+    -fx-font-size: 30;
+    -fx-cursor: hand;
+    /*-fx-background-color: #222835;*/
+    /*-fx-color: #000000;*/
+    -fx-background-color: #BBDED6;
+    -fx-color: #61C0BF;
+    -fx-background-radius: 1px;
+    -fx-transition: 10s;
+}
+.button:hover {
+    /*-fx-background-color: #393E46;*/
+    -fx-shadow: 20 20 20 20;
+    -fx-opacity: 0.95;
+}
+#textField {
+    -fx-font-family: "Bell MT";
+    /*-fx-background-color: #08D9D6;*/
+    /*-fx-text-fill: #222831;*/
+    -fx-background-color: #FFB6B9;
+    -fx-text-fill: #000000;
+    -fx-font-size: 24px;
+    -fx-background-radius: 30 30 0 0;
+}
+#leftRight {
+    -fx-font-family: "Bell MT";
+    -fx-max-width: 120;
+    -fx-background-color: #FF2E63;
+    -fx-text-fill: #000000;
+    -fx-font-size: 24px;
+    -fx-background-radius: 0 0 0 0;
+}
+#equ {
+    -fx-background-color: #FF2E63;
+    -fx-background-radius: 0 0 30 0;
+
+}
+#num{
+    -fx-background-color: #FAE3D9;
+}
+#rad {
+    -fx-background-radius: 0 0 0 30;
+}
+#exit {
+    -fx-background-radius: 30 0 30 0;
+    -fx-font-size: 20;
+    -fx-background-color: #FF2E63;
+}
+.chart-symbol {
+    -fx-background-radius: 10;
+    -fx-padding: 1px;
+}
+.chart{
+    -fx-background-color: #FFB6B9;
+}
+#labelLR {
+    -fx-background-color: #FF2E63;
+    -fx-font-size: 20px;
+}
+#buX{
+    -fx-background-color: #BBDED6;
+    -fx-font-size: 20px;
+}
+
+.chart-plot-background {
+    -fx-background-color: transparent;
+}

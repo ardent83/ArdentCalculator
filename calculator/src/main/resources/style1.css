@@ -1,0 +1,33 @@
+.button {
+    -fx-font-family: 'Bell MT';
+    -fx-font-size: 30;
+    -fx-cursor: hand;
+    -fx-background-color: #222835;
+    -fx-color: #000000;
+    -fx-background-radius: 1px;
+    -fx-transition: 10s;
+}
+.button:hover {
+    /*-fx-background-color: #393E46;*/
+    -fx-shadow: 20 20 20 20;
+    -fx-opacity: 0.95;
+}
+#textField {
+    -fx-font-family: "Bell MT";
+    -fx-background-color: #08D9D6;
+    -fx-text-fill: #222831;
+    -fx-font-size: 24px;
+}
+#equ {
+    -fx-background-color: #FF2E63;
+}
+#num{
+    -fx-background-color: #323232;
+}
+.chart{
+    -fx-background-color: #08D9D6;
+}
+#buX{
+    -fx-background-color: #222835;
+    -fx-font-size: 20px;
+}
